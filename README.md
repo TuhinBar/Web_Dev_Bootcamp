@@ -11,3 +11,9 @@ Web Development bootcamp by Anela Yu
 - OBJECTIVES : You will get to learn fundamentals of HTML and CSS at the starting of the course. This module comes later. The primary objective of this module is to explain the utilty classes of Bootsrap(4), how to include Bootstrap via CDN into the project, how to use bootstrap to buld a landing page from scratch, resposive website building.
 
 - Conslusion : It was a very fun project to learn. Also very core consepts of how to make a responsive website and some brief about media queries. Also there are HTML semantic elements, the usage of grid. Overall, after this project or after finising the module anyone can learn how to use bootsrtrap properly and create responsive websites.
+
+# 2.Drum Kit (javaScript)
+-
+-
+- Preview
+![drumkitpreview](https://user-images.githubusercontent.com/85868593/178804093-d6fd00da-8a65-48a7-8ae8-3b55e589f4c4.png)
