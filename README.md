@@ -16,4 +16,4 @@ Web Development bootcamp by Anela Yu
 -
 -
 - Preview
-![drumkitpreview](https://user-images.githubusercontent.com/85868593/178804093-d6fd00da-8a65-48a7-8ae8-3b55e589f4c4.png)
+![drumkitpreview](https://user-images.githubusercontent.com/85868593/178804353-01cbd8a8-bf28-419e-ab0d-8df0489d1e9b.png)
